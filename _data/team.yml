@@ -1,0 +1,6 @@
+- name: John Doe
+  title: CEO
+  email: jd@kjeldhansen.dk
+  phone: +45 11 22 33 44
+  image: no-image.jpg
+

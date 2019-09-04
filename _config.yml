@@ -1,0 +1,28 @@
+name: Kjeldhansen.dk
+description: Public website for Kjeldhansen 
+author:
+  name: Daniel Aakjær Sørensen
+  email: hello@connectedcars.io
+
+host: 0.0.0.0
+
+sass:
+  style: compressed
+  sass_dir: assets/_scss
+
+
+
+exclude:
+  - "bower_components/popper.js/docs"
+  - "bower_components/bootstrap/index.html"
+  - "bower_components/bootstrap/site"
+  - "bower.json"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "gulpfile.js"
+  - "package-lock.json"
+  - "package.json"
+  - "README.md"
+
+emails:
+  contact: vvs@kjeldhansen.dk

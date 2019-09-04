@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html class="{% if page.page_class != "" %}{{ page.page_class }}{% endif %}{{ layout.page_class}}" lang="en">
+<head>
+    {% include head.html %}
+</head>
+<body>
+    <!-- mobile navigation -->
+    {% include navbar.html nav-class="site-nav-mobile" %}
+
+    <!-- desktop navigation -->
+    {% include navbar.html nav-class="site-nav" %}
+
+    <main class="main-content" role="main">
+        {{ content }}
+    </main>
+
+    {% include footer.html %}
+    {% include scripts.html %}
+    
+    <script>
+        if ('serviceWorker' in navigator) {
+            //?sw=1 browser parameter for testing
+            if (window.location.search.indexOf('sw=1') > -1){
+                console.log("serviceworker = 1");
+                navigator.serviceWorker.register('/sw.js').then(function(registration) {
+                    // Registration was successful
+                    console.log('ServiceWorker registration successful with scope: ', registration.scope);
+                    }, function(err) {
+                    // registration failed :(
+                    console.log('ServiceWorker registration failed: ', err);
+                });
+            }
+        }
+    </script>
+</body>
+</html>

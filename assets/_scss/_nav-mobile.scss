@@ -1,0 +1,182 @@
+.site-nav-mobile {
+	overflow-y: auto;
+	position: fixed;
+	z-index: $zindex-fixed;
+	opacity: 0;
+	visibility: hidden;
+	left: 0;
+	top: 0;
+	right: 0;
+	height: 100%;
+	padding: 50px;
+	color: #fff;
+	filter: none;
+	transform: translate3D(0,0,0);
+	transition: all .25s, transform .4s;
+	background: $blue;
+	-webkit-overflow-scrolling: touch;
+	background-image: linear-gradient(15deg, darken($blue, 5%) 0%, $blue 100%);
+	align-items: flex-start;
+
+    @include media-breakpoint-up(lg) {
+        display: none;
+    }
+
+	.safari & {
+		min-height: 100vh;
+	}
+
+	.navbar-nav {
+		margin-top: 3rem;
+	}
+
+	.navbar-brand {
+		display: none;
+	}
+
+	.nav-item {
+
+        .nav-link.active {
+            color: #fff;
+        }
+
+        .nav-link {
+    		position: relative;
+    		font-weight: 300;
+    		font-size: 1.6rem;
+    		color: #fff;
+    		transition: all .15s;
+    		color: rgba($white, 0.6);
+    		user-select: none;
+
+    		&:active,
+    		&:focus {
+    			color: $white;
+    		}
+
+    		&:hover {
+    			color: $white;
+    		}
+        }
+	}
+
+	.dropdown-toggle {
+		padding-right: 55px;
+
+		/* this is the arrow inside the dropdown toggle */
+		&::before, &::after {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 52%;
+			height: 1px;
+			width: 14px;
+			background: $white;
+			backface-visibility: hidden;
+			transition: width .2s, transform .2s;
+			border: 0;
+		}
+
+		&::before {
+			right: 18px;
+			transform: rotate(45deg);
+		}
+
+		&::after {
+			right: 9px;
+			transform: rotate(-45deg);
+		}
+	}
+
+	// dropdown is shown
+	.show .dropdown-toggle {
+		&::before, &::after {
+			/* transform the arrow into a 'X' */
+			width: 20px;
+		}
+
+		&::before {
+			/* transform the arrow into a 'X' */
+			transform: translateX(9px) rotate(-45deg);
+		}
+
+		&::after {
+			/* transform the arrow into a 'X' */
+			transform: rotate(45deg);
+		}
+	}
+
+	.dropdown-menu {
+		padding-top: 0;
+		background-color: transparent;
+		box-shadow: none;
+	}
+
+	.dropdown-item {
+		padding-top: 0.4rem;
+		padding-right: 0.4rem;
+		font-size: 1.1rem;
+		color: rgba($white, 0.6);
+		transition: all 0.15s;
+
+		&:hover {
+			color: $white;
+			background: transparent;
+		}
+	}
+
+	.dropdown-item.active {
+		position: relative;
+		color: $white;
+		background: transparent;
+	}
+
+    // sign up cta button
+    .btn-sign-up {
+        display: block;
+        margin-top: 3rem;
+        padding-top: 0.8rem;
+        padding-bottom: 0.8rem;
+        color: #fff;
+        border-color: #fff;
+
+        &:hover {
+            background-color: #fff;
+            color: $blue;
+        }
+    }
+}
+
+.site-nav-mobile-container {
+	opacity: 0;
+	transform: translateX(30px);
+	transition: 0.4s 0s;
+}
+
+// menu is shown
+html.menu-shown,
+html.menu-shown > body {
+
+	@include media-breakpoint-down(md) {
+		// prevent scroll while menu is open
+		max-height: 100%;
+		overflow: hidden;
+
+		// white logo when mobile navigation is open
+        .logo,
+        .logo-text {
+			fill: #fff;
+        }
+
+		.site-nav-mobile {
+			opacity: 1;
+			visibility: visible;
+		}
+
+		.site-nav-mobile-container {
+			opacity: 1;
+			transform: none;
+			transition: 0.4s 0.15s;
+		}
+	}
+}

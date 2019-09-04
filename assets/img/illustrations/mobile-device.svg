@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="396px" height="802px" viewBox="0 0 396 802" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="165.152325" y="37.4709642" width="66.0609301" height="6.97134218" rx="3.48567109"></rect>
+        <filter x="-1.5%" y="-14.3%" width="103.0%" height="128.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.402503189   0 0 0 0 0.402503189   0 0 0 0 0.402503189  0 0 0 0.228940217 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <filter x="-172.6%" y="-172.1%" width="445.1%" height="444.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="100%" y1="50%" x2="2.28595344%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#E2C9C9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E9E9E9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="phone">
+            <g id="mobile-device" transform="translate(-0.257164, 0.000000)">
+                <g id="body" transform="translate(-0.000000, 0.000000)">
+                    <g id="Front-Speaker">
+                        <use fill="#DDDDDD" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    </g>
+                    <ellipse id="Home-button" stroke="#D8D8D8" stroke-width="4" fill="#F9F9F9" cx="198.18279" cy="756.390626" rx="26.076683" ry="26.1425332"></ellipse>
+                    <g id="Front-Camera" transform="translate(143.421756, 36.599546)">
+                        <ellipse id="Body" fill="#C2C2C2" cx="4.34611383" cy="4.35708886" rx="4.34611383" ry="4.35708886"></ellipse>
+                        <ellipse id="Lens" fill="#595959" filter="url(#filter-3)" cx="4.34611383" cy="4.35708886" rx="1" ry="1"></ellipse>
+                    </g>
+                    <ellipse id="Sensor" fill="#D8D8D8" cx="198.617402" cy="23.092571" rx="3.04227968" ry="3.0499622"></ellipse>
+                </g>
+                <g id="effect" transform="translate(-0.000000, 50.542231)" fill="url(#linearGradient-4)" opacity="0.60399683">
+                    <rect id="Rectangle-4-Copy" x="0" y="0" width="6.93631031" height="12.1998488"></rect>
+                    <rect id="Rectangle-4-Copy-2" x="388.433377" y="0" width="6.93631031" height="12.1998488"></rect>
+                    <rect id="Rectangle-4-Copy-4" x="0" y="670.991685" width="6.93631031" height="12.1998488"></rect>
+                    <rect id="Rectangle-4-Copy-3" x="388.433377" y="670.991685" width="6.93631031" height="12.1998488"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

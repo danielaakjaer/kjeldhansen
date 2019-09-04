@@ -1,0 +1,260 @@
+header[role="banner"] {
+
+    .container {
+        @include media-breakpoint-down(md) {
+            position: static;
+        }
+    }
+}
+
+// no need for page gutters on smaller devices
+.container {
+    @include media-breakpoint-down(md) {
+        max-width: 100%;
+    }
+}
+
+// make all images responsive by default
+img {
+    @extend .img-fluid;
+    align-self: center;
+    flex-shrink: 0; // IE 11 flex reset to avoid stretched images
+}
+
+.btn-cta {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 1.5rem;
+    padding: 0.75rem 1.5rem;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 0.875rem;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.10);
+    font-weight: 600;
+    line-height: 1.6;
+    letter-spacing: 0.015em;
+}
+
+.btn-icon {
+    margin-left: 0.5rem;
+}
+
+
+.picture-wrapper {
+    @extend .img-fluid;
+    align-self: center;
+    flex-shrink: 0; // IE 11 flex reset to avoid stretched images
+    margin-bottom: 50px;
+}
+
+
+// make sure Safari doesn't change those phone link colors
+a[href^=tel] {
+    text-decoration:inherit;
+    color: inherit;
+}
+
+.link-arrow-right {
+    margin-left: 0.4rem;
+
+    path {
+        fill: $link-color;
+    }
+}
+
+b {
+    color: $gray-700;
+}
+
+.blockquote {
+    padding: 1rem 1.5rem 0;
+    background: url(/assets/img/icons/blockquote.svg) 0.5rem 0.5rem no-repeat;
+
+    @include media-breakpoint-down(md) {
+        background-size: 45px auto;
+        font-size: 1.25rem;
+    }
+}
+
+.blockquote-footer {
+    font-size: 1.2rem;
+    margin-top: 2.5rem;
+}
+
+.underline {
+    display: inline-block;
+    border-bottom: 3px solid $gray-400;
+}
+
+.bullet-list {
+
+    li {
+        padding-left: 0.5rem;
+        list-style: none;
+
+        @include media-breakpoint-up(lg) {
+            padding-left: 2.125rem;
+        }
+
+        + li {
+            margin-top: 1rem;
+        }
+
+        &::before {
+            content: "";
+            position: relative;
+            display: inline-block;
+            width: 0.625rem;
+            height: 0.625rem;
+            margin-left: -2rem;
+            margin-right: 1.385rem;
+            border-radius: 100%;
+            background: $blue;
+
+            // @include media-breakpoint-up(md) {
+            //     margin-left: -2.125rem;
+            //     margin-right: 1.5rem;
+            // }
+        }
+    }
+}
+
+
+.main-content {
+	min-height: 500px;
+}
+
+.heading-icon {
+    display: block;
+    width: 60px;
+    height: 60px;
+    margin: 0 auto 1rem;
+    flex: none;
+}
+
+.group-heading {
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+    letter-spacing: -0.025em;
+
+    @include media-breakpoint-up(lg) {
+        font-size: 1.375rem;
+    }
+}
+
+.group-heading--sm {
+    margin-bottom: 0.8rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+    letter-spacing: -0.015em;
+}
+
+.feature-list {
+    @extend .list-unstyled;
+
+    @include media-breakpoint-down(sm) {
+
+    }
+}
+
+.feature {
+    margin-bottom: 3rem;
+    line-height: 1.6;
+}
+
+.feature-text-lg {
+    @include media-breakpoint-up(lg) {
+        font-size: 1.125rem;
+    }
+}
+
+.feature-content {
+
+    @include media-breakpoint-down(xs) {
+        max-width: 28rem;
+    }
+
+    @include media-breakpoint-up(lg) {
+        max-width: (map-get($container-max-widths, lg) / 2) - $grid-gutter-width;
+
+        &.feature-content--left {
+            padding-right: 4rem;
+        }
+
+        &.feature-content--right {
+            padding-left: 4rem;
+        }
+    }
+
+    @include media-breakpoint-up(xl) {
+        max-width: (map-get($container-max-widths, xl) / 2) - $grid-gutter-width;
+    }
+
+    .max-width {
+        max-width: 28rem;
+    }
+}
+
+.mobile-device {
+    position: relative;
+    max-width: 400px;
+    display: block;
+    margin: 1.5rem auto;
+    border-radius: 1.875rem;
+    background-color: #fff;
+    box-shadow:inset 0 2px 15px 0 rgba(0,0,0,0.15), 15px 30px 70px 0 #DCDFE3;
+
+    @include media-breakpoint-up(md){
+        margin: 3rem auto;
+        border-radius: 3.125rem;
+    }
+
+    &-screen {
+        position: absolute;
+        z-index: 2;
+        width: 94%;
+        top: 8.23%;
+        bottom: 10.72%;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+    }
+}
+
+ #fleet-overview {
+     margin-top: 0;
+
+     @include media-breakpoint-up(md) {
+         margin-top: -2rem;
+     }
+ }
+.page-footer {
+    margin: 8rem 0 3.375rem;
+}
+
+.secondary-links .nav-link {
+    color: $gray-600;
+    font-size: 0.875rem;
+}
+
+.social-links .nav-link {
+    transition: all 0.2s;
+
+    &:hover svg * {
+        fill: theme-color("primary");
+    }
+}
+
+.cc-window.cc-theme-classic {
+    font-size: 0.875rem
+}
+
+
+.app-store-link img {
+    max-height: 4rem;
+}
+
+.shadow {
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,0.07), 0 7px 17px 0 rgba(0,0,0,0.1); // should be removed when BS is updated to the latest
+}
