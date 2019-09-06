@@ -1,14 +1,14 @@
 .site-nav {
-	padding: 1rem 0;
+	padding: 2rem 0;
 
     @include media-breakpoint-down(md) {
         position: fixed;
         top: 0;
         right: 0;
         left: 0;
-        z-index: 1030;
-        background: rgba($white, 0.92);
-		transition: background-color 0.25s 0.1s;
+		z-index: 1030;
+		padding: 0.5rem 0;
+        background: $white;
     }
 
     .menu-shown & {
@@ -21,23 +21,26 @@
 		position: relative;
         display: flex;
         flex-direction: row;
-		align-items: center;
+		align-items: center;		
+		background: url(/assets/img/header/welcome.png) 75px center no-repeat;
+		background-size: auto 100%;
 
 		@include media-breakpoint-up(lg) {
-
+			background-position: 125px center;
+			background-size: 33%;
 		}			
     }
 
     // logo
     .navbar-brand {
-        width: 100px;
-        height: 96px;
+        width: 50px;
+        height: 53px;
         padding: 0;
         transition: all 0.25s;
 
         @include media-breakpoint-up(lg) {
-            width: 125px;
-			height: 133px;
+            width: 100px;
+			height: 106px;
         }
 	}
 	
