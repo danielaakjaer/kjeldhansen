@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<div class="section section-intro">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9 offset-lg-3">
+                <h1 class="page-heading">
+                    {{ page.title }}
+                </h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <aside class="sidebar col-lg-3">
+                <ul class="list-unstyled">
+                    <li class="mb-3">
+                        <a href="#">
+                            <img src="{{ site.baseurl }}/assets/img/sidebar/vvs.gif" alt="" />
+                        </a>
+                    </li>
+                    <li class="mb-3">
+                        <a href="#">
+                            <img src="{{ site.baseurl }}/assets/img/sidebar/murer.gif" alt="" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <img src="{{ site.baseurl }}/assets/img/sidebar/bad.gif" alt="" />
+                        </a>
+                    </li>
+                </ul>
+
+
+                <address>
+                    <h5>Dyssegård</h5>
+                    Søborg Hovedgade 14 A,<br/>
+                    2870 Dyssegård<br/>
+                    TLF: 39653965,<br/>
+                    Fax: 39761666<br/>
+                    vvs@kjeldhansen.dk<br/>
+                </address>
+                
+                <h6>Butikkens åbningstider</h6>
+                Man-Tor: 09.00-16.30<br/>
+                Fredag: 09.00-15.00<br/>
+                    
+                     
+                <address>                    
+                    <h5>Østerbro afdelingen</h5>
+                    Randersgade 43, kld.th.<br/>
+                    2100 København Ø<br/>
+                    TLF: 35263438,<br/>
+                    Fax: 35420397<br/>
+                    vvs@kjeldhansen.dk<br/>
+                </address>
+                    
+                   <h6>Butikkens åbningstider</h6>
+                    Mandag lukket<br/>
+                    Tir-Tor: 15.30-16.30<br/>
+                    Fredag: 15.00-16.00
+            </aside>
+            <div class="col-lg-9">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+</section>

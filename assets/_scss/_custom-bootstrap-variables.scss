@@ -254,7 +254,7 @@ $font-size-h6: 1rem !default;
 //
 // $headings-margin-bottom: $spacer !default;
 // $headings-font-family:   inherit !default;
-$headings-font-weight:   300 !default;
+$headings-font-weight:   700;
 $headings-line-height:   1.4 !default;
 $headings-color:         $gray-700 !default;
 //
@@ -272,7 +272,7 @@ $headings-color:         $gray-700 !default;
 // $lead-font-size:   1.25rem !default;
 // $lead-font-weight: 300 !default;
 //
-// $small-font-size: 80% !default;
+$small-font-size: 0.875rem;
 //
 // $text-muted: $gray-600 !default;
 //
