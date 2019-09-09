@@ -18,13 +18,13 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
-group :jekyll_plugins do
-    gem 'sass', '~> 3.5', '>= 3.5.5'
-    gem "jekyll-feed", "~> 0.6"
-    gem "sprockets", "~> 4.0.beta", {
-        require: false
-    }
-end
+# group :jekyll_plugins do
+#     gem 'sass', '~> 3.5', '>= 3.5.5'
+#     gem "jekyll-feed", "~> 0.6"
+#     gem "sprockets", "~> 4.0.beta", {
+#         require: false
+#     }
+# end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
