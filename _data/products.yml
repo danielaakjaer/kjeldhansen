@@ -1,11 +1,37 @@
 - title: Ifø Sign WC med S-lås
-  text: Levering og montering af Ifø Sign wc model 6860 med rengørringsvenlig glasur, 4/2 liters skyl og hel cisternekappe for nemmere rengørring sat Fresh wc (hygiejnisk doseringsløsning i skylleknappen) monteres med hvidt hårdt Pressalit Sign wc sæde model 724. Inkl. udsmidning af det gamle wc.
-  price: Tilbud 4.600,00 kr. inkl. moms
+  text: >-
+    Levering og montering af Ifø Sign wc model 6860 med rengørringsvenlig
+    glasur, 4/2 liters skyl og hel cisternekappe for nemmere rengørring sat
+    Fresh wc (hygiejnisk doseringsløsning i skylleknappen) monteres med hvidt
+    hårdt Pressalit Sign wc sæde model 724. Inkl. udsmidning af det gamle wc.
+  price: 'Tilbud 4.600,00 kr. inkl. moms'
   image_path: /assets/img/products/001.jpg
   vat-included: true
-  
 - title: Ifø Spira WC med S-lås
-  text: Levering og montering af Ifø Spira wc Rimfree med skjult s-lås model 6260 med rengørringsvenlig glasur, 4/2 liters skyl og hel cisternekappe for nemmere rengørring samt Fresh wc (hygiejnisk doseringsløsning i skylleknappen) monteres med hvidt Ifø Spira wc sæde med quick release model 99492 Inkl. udsmidning af det gamle wc.
-  price: Tilbud 5.200,00 kr. inkl. moms
+  text: >-
+    Levering og montering af Ifø Spira wc Rimfree med skjult s-lås model 6260
+    med rengørringsvenlig glasur, 4/2 liters skyl og hel cisternekappe for
+    nemmere rengørring samt Fresh wc (hygiejnisk doseringsløsning i
+    skylleknappen) monteres med hvidt Ifø Spira wc sæde med quick release model
+    99492 Inkl. udsmidning af det gamle wc.
+  price: 'Tilbud 5.200,00 kr. inkl. moms'
   image_path: /assets/img/products/002.jpg
+  vat-included: true
+- title: Ifø Sign WC med P-lås
+  text: >-
+    Ifø Sign wc med P-lås model 6862 med rengørringsvenlig glasur og hel
+    cisternekappe for nemmere rengørring samt Fresh wc (hygiejniske
+    doseringsløsning i skylleknappen) monteres med hvidt hårdt Pressalit Sign wc
+    sæde model 724. Inkl. udsmidning af det gamle wc.
+  price: 'Tilbud 5.000,00 kr. inkl. moms'
+  image_path: /uploads/003.jpg
+  vat-included: true
+- title: Ifø Sign WC kort model
+  text: >-
+    Ifø Sign wc kort model 6832 med rengørringsvenlig glasur og hel
+    cisternekappe for nemmere rengørring samt Fresh wc (hygiejnisk
+    doseringsløsning i skylleknappen) monteres med hvidt hårdt Pressalit Sign wc
+    sæde model 724. Inkl. udsmidning af det gamle wc.
+  price: 'Tilbud 5.500,00 kr. inkl. moms'
+  image_path: /uploads/004.jpg
   vat-included: true
