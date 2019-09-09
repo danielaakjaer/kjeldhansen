@@ -1,6 +1,9 @@
-- name: John Doe
-  title: CEO
-  email: jd@kjeldhansen.dk
-  phone: +45 11 22 33 44
-  image: no-image.jpg
-
+- title: Ifø Sign WC med S-lås
+  text: Levering og montering af Ifø Sign wc model 6860 med rengørringsvenlig glasur, 4/2 liters skyl og hel cisternekappe for nemmere rengørring sat Fresh wc (hygiejnisk doseringsløsning i skylleknappen) monteres med hvidt hårdt Pressalit Sign wc sæde model 724. Inkl. udsmidning af det gamle wc.
+  price: 4.600,00
+  vat-included: true
+  
+- title: Ifø Spira WC med S-lås
+  text: Levering og montering af Ifø Spira wc Rimfree med skjult s-lås model 6260 med rengørringsvenlig glasur, 4/2 liters skyl og hel cisternekappe for nemmere rengørring samt Fresh wc (hygiejnisk doseringsløsning i skylleknappen) monteres med hvidt Ifø Spira wc sæde med quick release model 99492 Inkl. udsmidning af det gamle wc.
+  price: 5.200,00
+  vat-included: true
