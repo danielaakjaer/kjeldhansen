@@ -111,3 +111,13 @@
   price: 'Tilbud for sæt 13.500,00 kr. inkl. moms.'
   image_path: /uploads/dansani-calidris-teak-3.jpg
   vat-included: true
+- title: Dansani Luna
+  text: |-
+    Kantate hvid porcelænsvask 71 cm.
+    Vaskeskab i hvid højglans med 2 skuffer og krom greb 70 cm.
+    Spejlskab med integreret lys i top og bund 70 cm.
+    Før pris for sæt 13.855,00 kr. inkl. moms.
+    Udstillingsmodel.
+  price: 'Tilbud 9.000,00 kr. inkl. moms'
+  image_path: /uploads/dansani-luna-kantate-70cm1.jpg
+  vat-included: true
