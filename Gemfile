@@ -21,7 +21,6 @@ gem "jekyll", "~> 3.7.0"
 group :jekyll_plugins do
     gem 'sass', '~> 3.5', '>= 3.5.5'
     gem "jekyll-feed", "~> 0.6"
-    gem "jekyll-assets", group: :jekyll_plugins
     gem "sprockets", "~> 4.0.beta", {
         require: false
     }
