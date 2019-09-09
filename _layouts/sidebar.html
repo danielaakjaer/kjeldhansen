@@ -20,30 +20,30 @@ layout: default
             <aside class="sidebar col-lg-3">
                 <ul class="list-unstyled">
                     <li class="mb-3">
-                        <a href="#">
+                        <a href="{{ site.baseurl }}/vvs/">
                             <img src="{{ site.baseurl }}/assets/img/sidebar/vvs.gif" alt="" />
                         </a>
                     </li>
                     <li class="mb-3">
-                        <a href="#">
+                        <a href="{{ site.baseurl }}/murer/">
                             <img src="{{ site.baseurl }}/assets/img/sidebar/murer.gif" alt="" />
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="{{ site.baseurl }}/badevaerelser/">
                             <img src="{{ site.baseurl }}/assets/img/sidebar/bad.gif" alt="" />
                         </a>
                     </li>
                 </ul>
 
-
+                {% if page.hide-sidebar-contacts != true %}
                 <address>
                     <h5>Dyssegård</h5>
                     Søborg Hovedgade 14 A,<br/>
                     2870 Dyssegård<br/>
                     TLF: 39653965,<br/>
                     Fax: 39761666<br/>
-                    vvs@kjeldhansen.dk<br/>
+                    <a href="mailto:{{ site.emails.contact }}">{{ site.emails.contact }}</a>
                 </address>
                 
                 <h6>Butikkens åbningstider</h6>
@@ -57,13 +57,15 @@ layout: default
                     2100 København Ø<br/>
                     TLF: 35263438,<br/>
                     Fax: 35420397<br/>
-                    vvs@kjeldhansen.dk<br/>
+                    <a href="mailto:{{ site.emails.contact }}">{{ site.emails.contact }}</a>
                 </address>
                     
-                   <h6>Butikkens åbningstider</h6>
-                    Mandag lukket<br/>
-                    Tir-Tor: 15.30-16.30<br/>
-                    Fredag: 15.00-16.00
+                <h6>Butikkens åbningstider</h6>
+                Mandag lukket<br/>
+                Tir-Tor: 15.30-16.30<br/>
+                Fredag: 15.00-16.00
+                {% endif %}
+
             </aside>
             <div class="col-lg-9">
                 {{ content }}
