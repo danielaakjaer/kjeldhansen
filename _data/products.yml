@@ -131,3 +131,14 @@
   price: 'Tilbud for sæt 11.000,00 kr. inkl. moms'
   image_path: /uploads/dansani-luna-kantate-hvid-vask.jpg
   vat-included: true
+- title: Dansani Luna
+  text: |-
+    Menuet hvid porcelænsvask 51 x 36 cm.
+    Vaskeskab i Champagne med 2 skuffer og krom greb 50 cm.
+    Spejlskab i Champagne med integreret belysning i top og bund 50 cm.
+    Før pris for sæt 10.430,00 kr. inkl. moms.
+
+    Udstillingsmodel. Ekskl. håndvaskbatteri.
+  price: 'Tilbud 6.400,00 kr. inkl. moms.'
+  image_path: /uploads/dansani-luna-champagne.jpg
+  vat-included: true
