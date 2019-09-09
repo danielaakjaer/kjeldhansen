@@ -1,4 +1,4 @@
-name: Kjeldhansen.dk
+title: Kjeldhansen.dk
 description: Public website for Kjeld Hansen 
 author:
   name: Daniel Aakjær Sørensen
@@ -8,8 +8,6 @@ host: 0.0.0.0
 sass:
   style: compressed
   sass_dir: assets/_scss
-
-
 
 exclude:
   - "node_modules"
