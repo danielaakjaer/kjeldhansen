@@ -35,3 +35,26 @@
   price: 'Tilbud 5.500,00 kr. inkl. moms'
   image_path: /uploads/004.jpg
   vat-included: true
+- title: Ifø dør
+  text: |-
+    Space 2000 nichedør med alu profiler og frostglas med knopgreb.
+    80 cm bred og 190 cm høj.
+    Før pris 3.266,00 kr. inkl. moms.
+  price: 'Tilbud 2.850,00 kr. inkl. moms'
+  image_path: /uploads/ifø-glasvæg.jpg
+  vat-included: true
+- title: Gustavsberg vask
+  text: |-
+    Nautic porcelænsvask 60x46 cm.
+    Førpris 777,00 kr. inkl. moms.
+  price: 'Tilbud 600,00 kr. inkl. moms'
+  image_path: /uploads/gustavsberg-vask.jpg
+  vat-included: true
+- title: Grohe
+  text: |-
+    Essence håndvaskbatteri med løft op bundventil.
+    Udstillingsmodel.
+    Før pris 1.742,50 kr.
+  price: 'Tilbud 1.400,00 kr. inkl. moms'
+  image_path: /uploads/grohe-essence-håndvaskbatteri.jpg
+  vat-included: true
