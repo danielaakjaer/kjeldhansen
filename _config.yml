@@ -12,6 +12,7 @@ sass:
 
 
 exclude:
+  - "node_modules"
   - "bower_components/popper.js/docs"
   - "bower_components/bootstrap/index.html"
   - "bower_components/bootstrap/site"
