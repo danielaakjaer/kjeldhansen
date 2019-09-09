@@ -291,3 +291,14 @@ b {
         background-position: center;
     }
 }
+
+.product-list-item {
+    display: flex;
+    margin-bottom: 1rem;
+
+    img {
+        align-self: flex-start;
+        max-height: 150px;
+        margin-right: 1.5rem;
+    }
+}
