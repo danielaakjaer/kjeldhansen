@@ -121,3 +121,13 @@
   price: 'Tilbud 9.000,00 kr. inkl. moms'
   image_path: /uploads/dansani-luna-kantate-70cm1.jpg
   vat-included: true
+- title: Dansani Zaro
+  text: |-
+    Kantato hvid porcelænsvask 101 cm.
+    Vaskeskab i mat hvid med 2 skuffer og integreret greb 100 cm.
+    Spejl med kubelamper og sensor 100 cm.
+    Udstillingsmodel. Ekskl. håndvaskbatteri.
+    Førpris for sæt 16.805,00 kr. inkl. moms.
+  price: 'Tilbud for sæt 11.000,00 kr. inkl. moms'
+  image_path: /uploads/dansani-luna-kantate-hvid-vask.jpg
+  vat-included: true
