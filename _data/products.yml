@@ -58,3 +58,56 @@
   price: 'Tilbud 1.400,00 kr. inkl. moms'
   image_path: /uploads/grohe-essence-håndvaskbatteri.jpg
   vat-included: true
+- title: Grohtherm 2000 termostatbatteri
+  text: |-
+    Udstillingsmodel.
+    Før pris 3.286,025 kr. inkl. moms.
+  price: 'Tilbud 2.000,00 kr. inkl. moms.'
+  image_path: /uploads/grohtherm-2000.jpg
+  vat-included: true
+- title: Grohtherm 3000 termostatbatteri
+  text: |-
+    Udstillingsmodel.
+    Før pris 4.367,50 kr. inkl. moms.
+  price: 'Tilbud 2.300,00 kr. inkl. moms.'
+  image_path: /uploads/grohtherm-30002.png
+  vat-included: true
+- title: Svedbergs Classic
+  text: |-
+    Vaskeskab med 2 hvide glatte skuffer med hvid porcelænsvask.
+
+    B:65 H:64 D:38/50,5
+    Spejl Top-Mirror i hvid 65 cm.
+    Udstillingsmodel. Ekskl. håndvaskbatteri.
+    Sættet fremstår med småskrammer og købes som beset uden garanti.
+
+     
+
+    Tilbud for sæt 1.000,00 kr. inkl. moms.
+  price: 'Normal pris for samlet sæt 11.200,00 kr. inkl. moms.'
+  image_path: /uploads/svedbergs-classic-2.jpg
+  vat-included: true
+- title: Dansani Luna
+  text: |-
+    Vaskeskab i coffee med 2 skuffer og blankkrom greb100 cm.
+    Menuet hvid porcelænsvask 100 cm.
+    Spejlskab i coffee med integreret belysning 100 cm.
+    Højskab i coffee med 2 låger og 2 skuffer og krom greb.
+    Udstillingsmodel.
+
+    Førpris for sæt 23.415,00 kr. inkl. moms.
+  price: 'Tilbud 12.000,00 kr.'
+  image_path: /uploads/dansani-luna-coffee-ny-butik.jpg
+  vat-included: true
+- title: Dansani Calidris
+  text: |-
+    Square hvid marmorvask 115,2 cm.
+    Vaskeskab i teak med 2 skuffer 115,2 cm.
+    Spejl i teak med 2 stk. lampetter og afbryder 115,2 cm.
+    2 stk. greb i smooth blank krom.
+    Udstillingsmodel. Ekskl. håndvaskbatteri.
+
+    Førpris for sæt 18.110,00 kr. inkl. moms.
+  price: 'Tilbud for sæt 13.500,00 kr. inkl. moms.'
+  image_path: /uploads/dansani-calidris-teak-3.jpg
+  vat-included: true
