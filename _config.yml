@@ -1,8 +1,7 @@
 name: Kjeldhansen.dk
-description: Public website for Kjeldhansen 
+description: Public website for Kjeld Hansen 
 author:
   name: Daniel Aakjær Sørensen
-  email: hello@connectedcars.io
 
 host: 0.0.0.0
 

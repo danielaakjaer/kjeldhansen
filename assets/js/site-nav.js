@@ -25,10 +25,4 @@
 		}
 	});
 
-    // point to correct login in staging hack
-    if (window.location.host.match(/staging/)) {
-        $(".js-login-link-workshop").prop("href", "https://workshop.staging.connectedcars.io/");
-        $(".js-login-link-fleet").prop("href", "https://fleet.staging.connectedcars.io/");
-    }
-
 })(jQuery);

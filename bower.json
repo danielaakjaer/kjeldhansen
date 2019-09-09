@@ -1,10 +1,10 @@
 {
-  "name": "Connected Cars",
-  "homepage": "https://github.com/connectedcars/website",
+  "name": "Kjeld Hansen",
+  "homepage": "https://kjeldhansen.dk",
   "authors": [
-    "Connected Cars A/S"
+    ""
   ],
-  "description": "Public website for Connected Cars A/S",
+  "description": "",
   "main": "",
   "license": "MIT",
   "ignore": [
