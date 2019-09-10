@@ -24,3 +24,13 @@ exclude:
 
 emails:
   contact: vvs@kjeldhansen.dk
+
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path: "bower_components"
+    values:
+      sitemap: false
