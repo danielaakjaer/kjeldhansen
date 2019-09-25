@@ -20,6 +20,7 @@ gem "jekyll", "~> 3.8.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
     gem "jekyll-sitemap"
+    gem 'jekyll-redirect-from'
     #     gem 'sass', '~> 3.5', '>= 3.5.5'
 #     gem "jekyll-feed", "~> 0.6"
 #     gem "sprockets", "~> 4.0.beta", {

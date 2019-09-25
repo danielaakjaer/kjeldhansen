@@ -27,6 +27,7 @@ emails:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 defaults:
   -
