@@ -7,19 +7,19 @@ page_class: page-offers
 <div class="section">
     {% assign all-products = site.data.products %}
 
+    <div class="product-list">
     {% for product in all-products %}
-        <div class="product-list">
-            <div class="product-list-item">
-                <img class="img-thumbnail" src="{{ site.baseurl }}{{ product.image_path }}" alt="">
-                <div class="">
-                    <h5 class="job-list-title mb-0">
-                        {{ product.title }}
-                    </h5>
-                    <p>{{ product.text }}</p>
-                    <p>{{ product.price }}</p>
-                </div>
+        <div class="product-list-item">
+            <img class="product-img" src="{{ site.baseurl }}{{ product.image_path }}" alt="">
+            <div class="product-body">
+                <h5 class="product-title">
+                    {{ product.title }}
+                </h5>
+                <p>{{ product.text }}</p>
+                <div class="product-price">{{ product.price }}</div>
             </div>
         </div>
     {% endfor %}
+    </div>
 </div>
 
