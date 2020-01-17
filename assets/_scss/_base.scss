@@ -1,3 +1,4 @@
+
 header[role="banner"] {
 
     .container {
@@ -15,6 +16,7 @@ header[role="banner"] {
 }
 
 .sidebar {
+    margin-top: 3rem;
     font-size: 0.875rem;
 
     address {
@@ -131,7 +133,12 @@ b {
 
 
 .main-content {
-	min-height: 500px;
+    min-height: 500px;
+    padding-top: 70px;
+
+    @include media-breakpoint-up(lg) {
+        padding-top: 0;
+    }
 }
 
 .page-heading {
@@ -332,10 +339,6 @@ b {
     display: block;
     margin-bottom: 1.25rem;
     border-radius: $border-radius-lg;
-}
-
-.product-body {
-
 }
 
 .product-price {

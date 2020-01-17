@@ -17,7 +17,10 @@ layout: default
 <section class="section">
     <div class="container">
         <div class="row">
-            <aside class="sidebar col-lg-3">
+            <div class="col-lg-9 order-lg-2">
+                {{ content }}
+            </div>
+            <aside class="sidebar col-lg-3 order-lg-1">
                 <ul class="list-unstyled">
                     <li class="mb-3">
                         <a href="{{ site.baseurl }}/vvs/">
@@ -67,9 +70,6 @@ layout: default
                 {% endif %}
 
             </aside>
-            <div class="col-lg-9">
-                {{ content }}
-            </div>
         </div>
     </div>
 </section>
