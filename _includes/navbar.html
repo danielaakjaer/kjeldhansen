@@ -29,7 +29,11 @@
                         Firma
                     </a>
                 </li>
-                
+                <li class="nav-item">
+                    <a class="nav-link {% if page.page_class contains "page-offers" %} active{% endif %}" href="{{ site.baseurl }}/tilbud">
+                        Tilbud
+                    </a>
+                </li>                
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle{% if page.page_class contains "page-gallery" %} active{% endif %}" href="#" id="navbarDropdownGallery" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Galleri
