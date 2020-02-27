@@ -4,6 +4,7 @@ author:
   name: Daniel Aakjær Sørensen
 
 host: 0.0.0.0
+repository: danielaakjaer/kjeldhansen.github.io
 
 sass:
   style: compressed
