@@ -122,8 +122,3 @@
   price: 'Tilbud 6.400,00 kr. inkl. moms.'
   image_path: /uploads/dansani-luna-champagne.jpg
   vat-included: true
-- title: Test
-  text: test
-  price: '2323'
-  image_path:
-  vat-included: false
