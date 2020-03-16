@@ -8,13 +8,13 @@ page_class: page-offers
     {% assign all-products = site.data.products %}
 
     <div class="editable mb-5">
-        Murer & VVS Kjeld Hansen Aps. har altid en masse gode tilbud. Se her hvad vi har at friste med.        
+        <p><strong>Murer &amp; VVS Kjeld Hansen Aps. har altid en masse gode tilbud. Se her hvad vi har at friste med.</strong></p>
     </div>
 
     <div class="product-list">
     {% for product in all-products %}
         <div class="product-list-item">
-            <img class="product-img" src="{{ site.baseurl }}{{ product.image_path }}" alt="">
+            <img class="product-img" src="{{ site.baseurl }}{{ product.image_path }}" alt="" />
             <div class="product-body">
                 <h5 class="product-title">
                     {{ product.title }}
