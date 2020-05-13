@@ -36,7 +36,7 @@ _options:
 _array_structures:
   gallery:
     values:
-      - label: Image
+      - label: image
 
 emails:
   contact: vvs@kjeldhansen.dk
