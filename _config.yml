@@ -31,6 +31,9 @@ _options:
     hidden: true
   redirect_from:
     hidden: true
+
+
+_array_structures:
   gallery:
     values:
       - label: Image
