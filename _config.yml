@@ -23,6 +23,17 @@ exclude:
   - "package-lock.json"
   - "package.json"
   - "README.md"
+  
+_options:
+  layout:
+    hidden: true
+  page_class:
+    hidden: true
+  redirect_from:
+    hidden: true
+  gallery:
+    values:
+      - label: Image
 
 emails:
   contact: vvs@kjeldhansen.dk
