@@ -32,12 +32,6 @@ _options:
   redirect_from:
     hidden: true
 
-
-_array_structures:
-  gallery:
-    values:
-      - label: image
-
 emails:
   contact: vvs@kjeldhansen.dk
 
