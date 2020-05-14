@@ -22,7 +22,7 @@ images:
     <div class="gallery">
         {% for image in page.images %}
             <div class="gallery-item">
-                <a href="{{ site.baseurl }}/{{ image.image_path }}" data-lightbox="masonry" style="background-image: url({{ site.baseurl }}/{{ image.image_path }})"></a>
+                <a href="{{ site.baseurl }}/{{ image.image_path }}" data-lightbox="masonry" style="background-image: url({{ site.baseurl }}{{ image.image_path }})"></a>
             </div>
         {% endfor %}
     </div>
