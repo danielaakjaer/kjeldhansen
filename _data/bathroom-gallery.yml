@@ -56,6 +56,12 @@
   large_image_path: /uploads/bad-127.JPG
 - small_image_path: /uploads/bad-128.JPG
   large_image_path: /uploads/bad-128.JPG
+- small_image_path: /uploads/bad-121.JPG
+  large_image_path: /uploads/bad-121.JPG
+- small_image_path: /uploads/bad-122.JPG
+  large_image_path: /uploads/bad-122.JPG
+- small_image_path: /uploads/bad-124.JPG
+  large_image_path: /uploads/bad-124.JPG
 - small_image_path: /assets/img/gallery/thumbs/1414048849.jpg
   large_image_path: /assets/img/gallery/large/1414048849.jpg
 - small_image_path: /assets/img/gallery/thumbs/1414048866.jpg
@@ -106,12 +112,12 @@
   large_image_path: /assets/img/gallery/large/1432113435.jpg
 - small_image_path: /assets/img/gallery/thumbs/1434006061.jpg
   large_image_path: /assets/img/gallery/large/1434006061.jpg
+- small_image_path: /assets/img/gallery/thumbs/1433238082.jpg
+  large_image_path: /assets/img/gallery/large/1433238082.jpg
 - small_image_path: /assets/img/gallery/thumbs/1433237693.jpg
   large_image_path: /assets/img/gallery/large/1433237693.jpg
 - small_image_path: /assets/img/gallery/thumbs/1435325002.jpg
   large_image_path: /assets/img/gallery/large/1435325002.jpg
-- small_image_path: /assets/img/gallery/thumbs/1433238082.jpg
-  large_image_path: /assets/img/gallery/large/1433238082.jpg
 - small_image_path: /assets/img/gallery/thumbs/1435325019.jpg
   large_image_path: /assets/img/gallery/large/1435325019.jpg
 - small_image_path: /assets/img/gallery/thumbs/1436253000.jpg
@@ -132,10 +138,10 @@
   large_image_path: /assets/img/gallery/large/1440679042.jpg
 - small_image_path: /assets/img/gallery/thumbs/1442404174.jpg
   large_image_path: /assets/img/gallery/large/1442404174.jpg
-- small_image_path: /assets/img/gallery/thumbs/1442404196.jpg
-  large_image_path: /assets/img/gallery/large/1442404196.jpg
 - small_image_path: /assets/img/gallery/thumbs/1442404222.jpg
   large_image_path: /assets/img/gallery/large/1442404222.jpg
+- small_image_path: /assets/img/gallery/thumbs/1442404196.jpg
+  large_image_path: /assets/img/gallery/large/1442404196.jpg
 - small_image_path: /assets/img/gallery/thumbs/1442404237.jpg
   large_image_path: /assets/img/gallery/large/1442404237.jpg
 - small_image_path: /assets/img/gallery/thumbs/1442404251.jpg
@@ -186,5 +192,3 @@
   large_image_path: /assets/img/gallery/large/1529498017.jpg
 - small_image_path: /assets/img/gallery/thumbs/1529498051.jpg
   large_image_path: /assets/img/gallery/large/1529498051.jpg
-- small_image_path: /uploads/bad-121.JPG
-  large_image_path: /uploads/bad-121.JPG
