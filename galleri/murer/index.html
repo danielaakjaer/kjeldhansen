@@ -10,7 +10,7 @@ redirect_from: /murergalleri
     <div class="gallery">
         {% for image in site.data.masonry-gallery %}
             <div class="gallery-item">
-                <a href="{{ site.baseurl }}{{ image.image_path_large }}" data-lightbox="gallery" style="background-image: url({{ site.baseurl }}{{ image.image_path_small }})"></a>
+                <a href="{{ site.baseurl }}{{ image.large_image_path }}" data-lightbox="gallery" style="background-image: url({{ site.baseurl }}{{ image.small_image_path }})"></a>
             </div>
         {% endfor %}
     </div>
