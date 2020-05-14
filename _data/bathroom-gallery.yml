@@ -1,17 +1,19 @@
-- small_image_path: /assets/img/gallery/thumbs/1332161233.jpg
-  large_image_path: /assets/img/gallery/large/1332161233.jpg
-- small_image_path: /assets/img/gallery/thumbs/1328275583.jpg
-  large_image_path: /assets/img/gallery/large/1328275583.jpg
 - small_image_path: /assets/img/gallery/thumbs/1328275488.jpg
   large_image_path: /assets/img/gallery/large/1328275488.jpg
 - small_image_path: /assets/img/gallery/thumbs/1328275527.jpg
   large_image_path: /assets/img/gallery/large/1328275527.jpg
-- small_image_path: /assets/img/gallery/thumbs/1370851712.jpg
-  large_image_path: /assets/img/gallery/large/1370851712.jpg
-- small_image_path: /assets/img/gallery/thumbs/1330352349.jpg
-  large_image_path: /assets/img/gallery/large/1330352349.jpg
-- small_image_path: /assets/img/gallery/thumbs/1330352573.jpg
-  large_image_path: /assets/img/gallery/large/1330352573.jpg
+- small_image_path: /assets/img/gallery/thumbs/1328275583.jpg
+  large_image_path: /assets/img/gallery/large/1328275583.jpg
+- small_image_path: /assets/img/gallery/thumbs/1362730706.jpg
+  large_image_path: /assets/img/gallery/large/1362730706.jpg
+- small_image_path: /assets/img/gallery/thumbs/1362730737.jpg
+  large_image_path: /assets/img/gallery/large/1362730737.jpg
+- small_image_path: /assets/img/gallery/thumbs/1362730752.jpg
+  large_image_path: /uploads/bad-27-3.jpg
+- small_image_path: /assets/img/gallery/thumbs/1362730770.jpg
+  large_image_path: /assets/img/gallery/large/1362730770.jpg
+- small_image_path: /assets/img/gallery/thumbs/1362730785.jpg
+  large_image_path: /assets/img/gallery/large/1362730785.jpg
 - small_image_path: /assets/img/gallery/thumbs/1330352615.jpg
   large_image_path: /assets/img/gallery/large/1330352615.jpg
 - small_image_path: /assets/img/gallery/thumbs/1330352651.jpg
@@ -22,40 +24,14 @@
   large_image_path: /assets/img/gallery/large/1330352702.jpg
 - small_image_path: /assets/img/gallery/thumbs/1330417203.jpg
   large_image_path: /assets/img/gallery/large/1330417203.jpg
-- small_image_path: /assets/img/gallery/thumbs/1330417238.jpg
-  large_image_path: /assets/img/gallery/large/1330417238.jpg
-- small_image_path: /assets/img/gallery/thumbs/1330417266.jpg
-  large_image_path: /assets/img/gallery/large/1330417266.jpg
 - small_image_path: /assets/img/gallery/thumbs/1330417290.jpg
   large_image_path: /assets/img/gallery/large/1330417290.jpg
-- small_image_path: /assets/img/gallery/thumbs/1332161153.jpg
-  large_image_path: /assets/img/gallery/large/1332161153.jpg
-- small_image_path: /assets/img/gallery/thumbs/1332161181.jpg
-  large_image_path: /assets/img/gallery/large/1332161181.jpg
-- small_image_path: /assets/img/gallery/thumbs/1332161269.jpg
-  large_image_path: /assets/img/gallery/large/1332161269.jpg
-- small_image_path: /assets/img/gallery/thumbs/1332161298.jpg
-  large_image_path: /assets/img/gallery/large/1332161298.jpg
-- small_image_path: /assets/img/gallery/thumbs/1340626233.jpg
-  large_image_path: /assets/img/gallery/large/1340626233.jpg
-- small_image_path: /assets/img/gallery/thumbs/1340626312.jpg
-  large_image_path: /assets/img/gallery/large/1340626312.jpg
-- small_image_path: /assets/img/gallery/thumbs/1340626120.jpg
-  large_image_path: /assets/img/gallery/large/1340626120.jpg
-- small_image_path: /assets/img/gallery/thumbs/1340626344.jpg
-  large_image_path: /assets/img/gallery/large/1340626344.jpg
-- small_image_path: /assets/img/gallery/thumbs/1340626358.jpg
-  large_image_path: /assets/img/gallery/large/1340626358.jpg
-- small_image_path: /assets/img/gallery/thumbs/1362730706.jpg
-  large_image_path: /assets/img/gallery/large/1362730706.jpg
-- small_image_path: /assets/img/gallery/thumbs/1362730737.jpg
-  large_image_path: /assets/img/gallery/large/1362730737.jpg
-- small_image_path: /assets/img/gallery/thumbs/1362730752.jpg
-  large_image_path: /assets/img/gallery/large/1362730752.jpg
-- small_image_path: /assets/img/gallery/thumbs/1362730770.jpg
-  large_image_path: /assets/img/gallery/large/1362730770.jpg
-- small_image_path: /assets/img/gallery/thumbs/1362730785.jpg
-  large_image_path: /assets/img/gallery/large/1362730785.jpg
+- small_image_path: /uploads/bad-131.jpg
+  large_image_path: /uploads/bad-131.jpg
+- small_image_path: /uploads/bad-133.jpg
+  large_image_path: /uploads/bad-133.jpg
+- small_image_path: /uploads/bad-132.jpg
+  large_image_path: /uploads/bad-132.jpg
 - small_image_path: /assets/img/gallery/thumbs/1367827753.jpg
   large_image_path: /assets/img/gallery/large/1367827753.jpg
 - small_image_path: /assets/img/gallery/thumbs/1367827772.jpg
@@ -72,10 +48,20 @@
   large_image_path: /assets/img/gallery/large/1409133460.jpg
 - small_image_path: /assets/img/gallery/thumbs/1409133492.jpg
   large_image_path: /assets/img/gallery/large/1409133492.jpg
-- small_image_path: /assets/img/gallery/thumbs/1409133511.jpg
-  large_image_path: /assets/img/gallery/large/1409133511.jpg
-- small_image_path: /assets/img/gallery/thumbs/1409133567.jpg
-  large_image_path: /assets/img/gallery/large/1409133567.jpg
+- small_image_path: /uploads/bad-125.JPG
+  large_image_path: /uploads/bad-125.JPG
+- small_image_path: /uploads/bad-126.JPG
+  large_image_path: /uploads/bad-126.JPG
+- small_image_path: /uploads/bad-127.JPG
+  large_image_path: /uploads/bad-127.JPG
+- small_image_path: /uploads/bad-128.JPG
+  large_image_path: /uploads/bad-128.JPG
+- small_image_path: /uploads/bad-121.JPG
+  large_image_path: /uploads/bad-121.JPG
+- small_image_path: /uploads/bad-122.JPG
+  large_image_path: /uploads/bad-122.JPG
+- small_image_path: /uploads/bad-124.JPG
+  large_image_path: /uploads/bad-124.JPG
 - small_image_path: /assets/img/gallery/thumbs/1414048849.jpg
   large_image_path: /assets/img/gallery/large/1414048849.jpg
 - small_image_path: /assets/img/gallery/thumbs/1414048866.jpg
@@ -126,24 +112,24 @@
   large_image_path: /assets/img/gallery/large/1432113435.jpg
 - small_image_path: /assets/img/gallery/thumbs/1434006061.jpg
   large_image_path: /assets/img/gallery/large/1434006061.jpg
-- small_image_path: /assets/img/gallery/thumbs/1433237693.jpg
-  large_image_path: /assets/img/gallery/large/1433237693.jpg
 - small_image_path: /assets/img/gallery/thumbs/1433238082.jpg
   large_image_path: /assets/img/gallery/large/1433238082.jpg
+- small_image_path: /assets/img/gallery/thumbs/1433237693.jpg
+  large_image_path: /assets/img/gallery/large/1433237693.jpg
 - small_image_path: /assets/img/gallery/thumbs/1435325002.jpg
   large_image_path: /assets/img/gallery/large/1435325002.jpg
 - small_image_path: /assets/img/gallery/thumbs/1435325019.jpg
   large_image_path: /assets/img/gallery/large/1435325019.jpg
 - small_image_path: /assets/img/gallery/thumbs/1436253000.jpg
   large_image_path: /assets/img/gallery/large/1436253000.jpg
+- small_image_path: /assets/img/gallery/thumbs/1436253088.jpg
+  large_image_path: /assets/img/gallery/large/1436253088.jpg
 - small_image_path: /assets/img/gallery/thumbs/1436253023.jpg
   large_image_path: /assets/img/gallery/large/1436253023.jpg
 - small_image_path: /assets/img/gallery/thumbs/1436253052.jpg
   large_image_path: /assets/img/gallery/large/1436253052.jpg
 - small_image_path: /assets/img/gallery/thumbs/1436253071.jpg
   large_image_path: /assets/img/gallery/large/1436253071.jpg
-- small_image_path: /assets/img/gallery/thumbs/1436253088.jpg
-  large_image_path: /assets/img/gallery/large/1436253088.jpg
 - small_image_path: /assets/img/gallery/thumbs/1440679016.jpg
   large_image_path: /assets/img/gallery/large/1440679016.jpg
 - small_image_path: /assets/img/gallery/thumbs/1440679030.jpg
@@ -152,14 +138,16 @@
   large_image_path: /assets/img/gallery/large/1440679042.jpg
 - small_image_path: /assets/img/gallery/thumbs/1442404174.jpg
   large_image_path: /assets/img/gallery/large/1442404174.jpg
-- small_image_path: /assets/img/gallery/thumbs/1442404196.jpg
-  large_image_path: /assets/img/gallery/large/1442404196.jpg
 - small_image_path: /assets/img/gallery/thumbs/1442404222.jpg
   large_image_path: /assets/img/gallery/large/1442404222.jpg
+- small_image_path: /assets/img/gallery/thumbs/1442404196.jpg
+  large_image_path: /assets/img/gallery/large/1442404196.jpg
 - small_image_path: /assets/img/gallery/thumbs/1442404237.jpg
   large_image_path: /assets/img/gallery/large/1442404237.jpg
 - small_image_path: /assets/img/gallery/thumbs/1442404251.jpg
   large_image_path: /assets/img/gallery/large/1442404251.jpg
+- small_image_path: /assets/img/gallery/thumbs/1447057435.jpg
+  large_image_path: /assets/img/gallery/large/1447057435.jpg
 - small_image_path: /assets/img/gallery/thumbs/1442404264.jpg
   large_image_path: /assets/img/gallery/large/1442404264.jpg
 - small_image_path: /assets/img/gallery/thumbs/1442404278.jpg
@@ -174,8 +162,6 @@
   large_image_path: /assets/img/gallery/large/1446110800.jpg
 - small_image_path: /assets/img/gallery/thumbs/1447057420.jpg
   large_image_path: /assets/img/gallery/large/1447057420.jpg
-- small_image_path: /assets/img/gallery/thumbs/1447057435.jpg
-  large_image_path: /assets/img/gallery/large/1447057435.jpg
 - small_image_path: /assets/img/gallery/thumbs/1459965096.jpg
   large_image_path: /assets/img/gallery/large/1459965096.jpg
 - small_image_path: /assets/img/gallery/thumbs/1459965112.jpg
