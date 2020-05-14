@@ -74,7 +74,9 @@
 		font-weight: 600;
 		transition: color 0.2s;
 		font-size: 0.9375rem;
-        user-select: none;
+		user-select: none;
+		letter-spacing: -0.01em;
+		color: #303642;
 	}
 
 	.nav-item .nav-link:hover {
@@ -90,8 +92,8 @@
     		content: '';
     		display: block;
     		position: absolute;
-    		top: 55%;
-    		height: 1px;
+    		top: 50%;
+    		height: 2px;
     		width: 8px;
     		background: #AEAEAE;
     		backface-visibility: hidden;

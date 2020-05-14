@@ -57,7 +57,7 @@
 $gray-600: #868e96 !default;
 $gray-700: #495057 !default;
 $gray-800: #343a40 !default;
-// $gray-900: #212529 !default;
+$gray-900: #212529 !default;
 // $black:  #000 !default;
 //
 // $grays: (
@@ -231,7 +231,7 @@ $grid-gutter-width: 40px !default;
 // //
 // // Font, line-height, and color for body text, headings, and more.
 //
-$font-family-sans-serif: "Muli", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$font-family-sans-serif: "Open Sans", sans-serif;
 // $font-family-monospace:  Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
 // $font-family-base:       $font-family-sans-serif !default;
 //
@@ -254,9 +254,9 @@ $font-size-h6: 1rem !default;
 //
 // $headings-margin-bottom: $spacer !default;
 // $headings-font-family:   inherit !default;
-$headings-font-weight:   700;
+$headings-font-weight:   600;
 $headings-line-height:   1.4 !default;
-$headings-color:         $gray-700 !default;
+$headings-color:         $gray-800 !default;
 //
 // $display1-size: 6rem !default;
 // $display2-size: 5.5rem !default;
