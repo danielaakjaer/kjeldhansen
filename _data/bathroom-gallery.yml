@@ -182,3 +182,5 @@
   large_image_path: /assets/img/gallery/large/1529498017.jpg
 - small_image_path: /assets/img/gallery/thumbs/1529498051.jpg
   large_image_path: /assets/img/gallery/large/1529498051.jpg
+- small_image_path: /uploads/bad-127.JPG
+  large_image_path: /uploads/bad-127.JPG
