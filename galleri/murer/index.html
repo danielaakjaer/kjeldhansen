@@ -20,9 +20,10 @@ images:
 <div class="section">
     <div class="editable"></div>
     <div class="gallery">
-
         {% for image in page.images %}
-            <div class="gallery-item"><a href="{{ site.baseurl }}/{{ image.image_path }}" data-lightbox="masonry" style="background-image: url({{ site.baseurl }}/{{ image.image_path }})"></a></div>
+            <div class="gallery-item">
+                <a href="{{ site.baseurl }}/{{ image.image_path }}" data-lightbox="masonry" style="background-image: url({{ site.baseurl }}/{{ image.image_path }})"></a>
+            </div>
         {% endfor %}
     </div>
 </div>
