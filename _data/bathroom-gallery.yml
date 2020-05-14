@@ -48,8 +48,8 @@
   large_image_path: /assets/img/gallery/large/1409133460.jpg
 - small_image_path: /assets/img/gallery/thumbs/1409133492.jpg
   large_image_path: /assets/img/gallery/large/1409133492.jpg
-- small_image_path: /assets/img/gallery/thumbs/1409133511.jpg
-  large_image_path: /assets/img/gallery/large/1409133511.jpg
+- small_image_path: /uploads/bad-125.JPG
+  large_image_path: /uploads/bad-125.JPG
 - small_image_path: /assets/img/gallery/thumbs/1409133567.jpg
   large_image_path: /assets/img/gallery/large/1409133567.jpg
 - small_image_path: /assets/img/gallery/thumbs/1414048849.jpg
