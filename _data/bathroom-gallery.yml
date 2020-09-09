@@ -196,3 +196,5 @@
   large_image_path: /uploads/bad-1-1.jpg
 - small_image_path: /uploads/bad-2.jpg
   large_image_path: /uploads/bad-2.jpg
+- small_image_path: /uploads/bad-3.jpg
+  large_image_path: /uploads/bad-3.jpg
