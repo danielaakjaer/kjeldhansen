@@ -4,7 +4,7 @@
     glasur, 4/2 liters skyl og hel cisternekappe for nemmere rengørring sat
     Fresh wc (hygiejnisk doseringsløsning i skylleknappen) monteres med hvidt
     hårdt Pressalit Sign wc sæde model 724. Inkl. udsmidning af det gamle wc.
-  price: 'Tilbud 4.750,00 kr. inkl. moms'
+  price: Tilbud 4.750,00 kr. inkl. moms
   image_path: /assets/img/products/001.jpg
   vat-included: true
 - title: Ifø Spira WC med S-lås
@@ -14,7 +14,7 @@
     nemmere rengørring samt Fresh wc (hygiejnisk doseringsløsning i
     skylleknappen) monteres med hvidt Ifø Spira wc sæde med quick release model
     99492 Inkl. udsmidning af det gamle wc.
-  price: 'Tilbud 5.200,00 kr. inkl. moms'
+  price: Tilbud 5.200,00 kr. inkl. moms
   image_path: /assets/img/products/002.jpg
   vat-included: true
 - title: Ifø Spira WC med P-lås
@@ -23,7 +23,7 @@
     cisternekappe for nemmere rengørring samt Fresh wc (hygiejniske
     doseringsløsning i skylleknappen) monteres med hvidt Ifø Spira wc sæde.
     Inkl. udsmidning af det gamle wc.
-  price: 'Tilbud 5.300,00 kr. inkl. moms'
+  price: Tilbud 5.300,00 kr. inkl. moms
   image_path: /uploads/ifø-spira-p-lås.jpg
   vat-included: true
 - title: Ifø Sign WC kort model
@@ -32,7 +32,7 @@
     cisternekappe for nemmere rengørring samt Fresh wc (hygiejnisk
     doseringsløsning i skylleknappen) monteres med hvidt hårdt Pressalit Sign wc
     sæde model 724. Inkl. udsmidning af det gamle wc.
-  price: 'Tilbud 5.700,00 kr. inkl. moms'
+  price: Tilbud 5.700,00 kr. inkl. moms
   image_path: /uploads/004.jpg
   vat-included: true
 - title: Ifø dør
@@ -40,14 +40,14 @@
     Space 2000 nichedør med alu profiler og frostglas med knopgreb.
     80 cm bred og 190 cm høj.
     Før pris 3.266,00 kr. inkl. moms.
-  price: 'Tilbud 2.850,00 kr. inkl. moms'
+  price: Tilbud 2.850,00 kr. inkl. moms
   image_path: /uploads/ifø-glasvæg.jpg
   vat-included: true
 - title: Gustavsberg vask
   text: |-
     Nautic porcelænsvask 60x46 cm.
     Førpris 777,00 kr. inkl. moms.
-  price: 'Tilbud 600,00 kr. inkl. moms'
+  price: Tilbud 600,00 kr. inkl. moms
   image_path: /uploads/gustavsberg-vask.jpg
   vat-included: true
 - title: Grohe
@@ -55,27 +55,15 @@
     Essence håndvaskbatteri med løft op bundventil.
     Udstillingsmodel.
     Før pris 1.742,50 kr.
-  price: 'Tilbud 1.400,00 kr. inkl. moms'
+  price: Tilbud 1.400,00 kr. inkl. moms
   image_path: /uploads/grohe-essence-håndvaskbatteri.jpg
   vat-included: true
 - title: Grohtherm 2000 termostatbatteri
   text: |-
     Udstillingsmodel.
     Før pris 3.286,025 kr. inkl. moms.
-  price: 'Tilbud 2.000,00 kr. inkl. moms.'
+  price: Tilbud 2.000,00 kr. inkl. moms.
   image_path: /uploads/grohtherm-2000.jpg
-  vat-included: true
-- title: Svedbergs Classic
-  text: |-
-    Vaskeskab med 2 hvide glatte skuffer med hvid porcelænsvask.
-
-    B:65 H:64 D:38/50,5
-    Spejl Top-Mirror i hvid 65 cm.
-    Udstillingsmodel. Ekskl. håndvaskbatteri.
-    Sættet fremstår med småskrammer og købes som beset uden garanti.
-    Normal pris for samlet sæt 11.200,00 kr. inkl. moms.
-  price: 'Tilbud for sæt 1.000,00 kr. inkl. moms.'
-  image_path: /uploads/svedbergs-classic-2.jpg
   vat-included: true
 - title: Dansani Luna
   text: |-
@@ -86,7 +74,7 @@
     Udstillingsmodel.
 
     Førpris for sæt 23.415,00 kr. inkl. moms.
-  price: 'Tilbud 12.000,00 kr.'
+  price: Tilbud 12.000,00 kr.
   image_path: /uploads/dansani-luna-coffee-ny-butik-1.jpg
   vat-included: true
 - title: Dansani Calidris
@@ -98,7 +86,7 @@
     Udstillingsmodel. Ekskl. håndvaskbatteri.
 
     Førpris for sæt 18.110,00 kr. inkl. moms.
-  price: 'Tilbud for sæt 13.500,00 kr. inkl. moms.'
+  price: Tilbud for sæt 13.500,00 kr. inkl. moms.
   image_path: /uploads/dansani-calidris-teak-3-1.jpg
   vat-included: true
 - title: Dansani Luna
@@ -108,7 +96,7 @@
     Spejlskab med integreret lys i top og bund 70 cm.
     Før pris for sæt 13.855,00 kr. inkl. moms.
     Udstillingsmodel.
-  price: 'Tilbud 9.000,00 kr. inkl. moms'
+  price: Tilbud 9.000,00 kr. inkl. moms
   image_path: /uploads/dansani-luna-kantate-70cm1.jpg
   vat-included: true
 - title: Dansani Luna
@@ -119,6 +107,6 @@
     Før pris for sæt 10.430,00 kr. inkl. moms.
 
     Udstillingsmodel. Ekskl. håndvaskbatteri.
-  price: 'Tilbud 6.400,00 kr. inkl. moms.'
+  price: Tilbud 6.400,00 kr. inkl. moms.
   image_path: /uploads/dansani-luna-champagne.jpg
   vat-included: true
