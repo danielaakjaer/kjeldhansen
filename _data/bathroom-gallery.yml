@@ -142,6 +142,8 @@
   large_image_path: /assets/img/gallery/large/1447057420.jpg
 - small_image_path: /assets/img/gallery/thumbs/1459965096.jpg
   large_image_path: /assets/img/gallery/large/1459965096.jpg
+- small_image_path: /bad-15.jpg
+  large_image_path: /bad-15.jpg
 - small_image_path: /assets/img/gallery/thumbs/1459965112.jpg
   large_image_path: /assets/img/gallery/large/1459965112.jpg
 - small_image_path: /assets/img/gallery/thumbs/1499421729.jpg
@@ -178,7 +180,5 @@
   large_image_path: /bad-14.jpg
 - small_image_path: /bad-17.jpg
   large_image_path: /bad-17.jpg
-- small_image_path: /bad-15.jpg
-  large_image_path: /bad-15.jpg
 - small_image_path: /bad-16.jpg
   large_image_path: /bad-16.jpg
