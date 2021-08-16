@@ -32,6 +32,8 @@
   large_image_path: /bad-15.jpg
 - small_image_path: /uploads/bad-133.jpg
   large_image_path: /uploads/bad-133.jpg
+- small_image_path: /bad-16.jpg
+  large_image_path: /bad-16.jpg
 - small_image_path: /uploads/bad-132.jpg
   large_image_path: /uploads/bad-132.jpg
 - small_image_path: /assets/img/gallery/thumbs/1409133093.jpg
@@ -180,5 +182,3 @@
   large_image_path: /bad-14.jpg
 - small_image_path: /bad-17.jpg
   large_image_path: /bad-17.jpg
-- small_image_path: /bad-16.jpg
-  large_image_path: /bad-16.jpg
