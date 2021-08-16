@@ -162,3 +162,5 @@
   large_image_path: /uploads/bad-5.jpg
 - small_image_path: /bad-7.jpg
   large_image_path: /bad-7.jpg
+- small_image_path: /bad-8.jpg
+  large_image_path: /bad-8.jpg
