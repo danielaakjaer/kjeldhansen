@@ -166,3 +166,5 @@
   large_image_path: /bad-8.jpg
 - small_image_path: /bad-9.jpg
   large_image_path: /bad-9.jpg
+- small_image_path: /bad-10.jpg
+  large_image_path: /bad-10.jpg
