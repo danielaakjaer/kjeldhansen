@@ -164,6 +164,8 @@
   large_image_path: /bad-8.jpg
 - small_image_path: /bad-9.jpg
   large_image_path: /bad-9.jpg
+- small_image_path: /bad-29.jpg
+  large_image_path: /bad-29.jpg
 - small_image_path: /bad-10.jpg
   large_image_path: /bad-10.jpg
 - small_image_path: /bad-11.jpg
@@ -196,5 +198,5 @@
   large_image_path: /bad-26.jpg
 - small_image_path: /bad-27.jpg
   large_image_path: /bad-27.jpg
-- small_image_path: /bad-29.jpg
-  large_image_path: /bad-29.jpg
+- small_image_path: /bad-28.jpg
+  large_image_path: /bad-28.jpg
