@@ -110,3 +110,12 @@
   price: Tilbud 6.400,00 kr. inkl. moms.
   image_path: /uploads/dansani-luna-champagne.jpg
   vat-included: true
+- title: Hansgrohe brusesæt
+  text: >-
+    Hansgrohe Raindance Select S brusesystem Ecostat Select brusebatteri og
+    brusestang 65 cm med 3jet håndbruser.
+
+    Førpris 5.771,25 kr. inkl. moms
+  price: Tilbud 2.000,00 kr. inkl. moms
+  image_path: /hg-brusesæt.png
+  vat-included: true
