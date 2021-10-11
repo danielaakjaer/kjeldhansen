@@ -37,6 +37,15 @@
   vat-included: true
 - title: Levering og montering
   text: >-
+    Levering og montering af Grohe Essence krom håndvaskbatteri med løft op
+    bundventil.
+
+    Forbehold for at der kan lukkes for vandet under vask/i lejligheden.
+  price: Tilbud 1.800,00 kr. inkl. moms
+  image_path: /uploads/grohe-essence-håndvaskbatteri.jpg
+  vat-included: true
+- title: Levering og montering
+  text: >-
     Levering og montering af Hansgrohe Focus 100 håndvaskbatteri med løft op
     bundventil.
 
@@ -51,14 +60,12 @@
   price: Pris 2.190,00 kr. inkl. moms
   image_path: /uploads/damixa-silhouet.jpg
   vat-included: true
-- title: Levering og montering
-  text: >-
-    Levering og montering af Grohe Essence krom håndvaskbatteri med løft op
-    bundventil.
-
-    Forbehold for at der kan lukkes for vandet under vask/i lejligheden.
-  price: Tilbud 1.800,00 kr. inkl. moms
-  image_path: /uploads/grohe-essence-håndvaskbatteri.jpg
+- title: Gustavsberg vask
+  text: |-
+    Nautic porcelænsvask 60x46 cm.
+    Førpris 777,00 kr. inkl. moms.
+  price: Tilbud 500,00 kr. inkl. moms
+  image_path: /uploads/gustavsberg-vask.jpg
   vat-included: true
 - title: Ifø glasdør
   text: |-
@@ -67,20 +74,6 @@
     Før pris 3.266,00 kr. inkl. moms.
   price: Tilbud 2.500,00 kr. inkl. moms
   image_path: /uploads/ifø-glasvæg.jpg
-  vat-included: true
-- title: Gustavsberg vask
-  text: |-
-    Nautic porcelænsvask 60x46 cm.
-    Førpris 777,00 kr. inkl. moms.
-  price: Tilbud 500,00 kr. inkl. moms
-  image_path: /uploads/gustavsberg-vask.jpg
-  vat-included: true
-- title: Grohtherm 2000 termostatbatteri
-  text: |-
-    Udstillingsmodel.
-    Før pris 3.286,025 kr. inkl. moms.
-  price: Tilbud 1.500,00 kr. inkl. moms.
-  image_path: /uploads/grohtherm-2000.jpg
   vat-included: true
 - title: Dansani Luna
   text: |-
@@ -126,6 +119,13 @@
     Udstillingsmodel. Ekskl. håndvaskbatteri.
   price: Tilbud 4.000,00 kr. inkl. moms.
   image_path: /uploads/dansani-luna-champagne.jpg
+  vat-included: true
+- title: Grohtherm 2000 termostatbatteri
+  text: |-
+    Udstillingsmodel.
+    Før pris 3.286,025 kr. inkl. moms.
+  price: Tilbud 1.500,00 kr. inkl. moms.
+  image_path: /uploads/grohtherm-2000.jpg
   vat-included: true
 - title: Hansgrohe brusesæt
   text: >-
