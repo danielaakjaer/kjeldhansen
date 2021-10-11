@@ -50,12 +50,13 @@
   price: Tilbud 500,00 kr. inkl. moms
   image_path: /uploads/gustavsberg-vask.jpg
   vat-included: true
-- title: Grohe håndvaskbatteri
-  text: |-
-    Essence håndvaskbatteri med løft op bundventil.
-    Udstillingsmodel.
-    Før pris 1.742,50 kr.
-  price: Tilbud 1.000,00 kr. inkl. moms
+- title: Levering og montering
+  text: >-
+    Levering og montering af Grohe Essence håndvaskbatteri med løft op
+    bundventil.
+
+    Pris 1.742,50 kr.
+  price: Tilbud 1.800,00 kr. inkl. moms
   image_path: /uploads/grohe-essence-håndvaskbatteri.jpg
   vat-included: true
 - title: Grohtherm 2000 termostatbatteri
