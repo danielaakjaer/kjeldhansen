@@ -50,13 +50,6 @@
   price: Tilbud 500,00 kr. inkl. moms
   image_path: /uploads/gustavsberg-vask.jpg
   vat-included: true
-- title: Grohtherm 2000 termostatbatteri
-  text: |-
-    Udstillingsmodel.
-    Før pris 3.286,025 kr. inkl. moms.
-  price: Tilbud 1.500,00 kr. inkl. moms.
-  image_path: /uploads/grohtherm-2000.jpg
-  vat-included: true
 - title: Levering og montering
   text: >-
     Levering og montering af Grohe Essence krom håndvaskbatteri med løft op
@@ -81,6 +74,13 @@
     Forbehold for at der kan lukkes for vandet under vasken/i lejligheden
   price: Pris 2.190,00 kr. inkl. moms
   image_path: /uploads/damixa-silhouet.jpg
+  vat-included: true
+- title: Grohtherm 2000 termostatbatteri
+  text: |-
+    Udstillingsmodel.
+    Før pris 3.286,025 kr. inkl. moms.
+  price: Tilbud 1.500,00 kr. inkl. moms.
+  image_path: /uploads/grohtherm-2000.jpg
   vat-included: true
 - title: Dansani Luna
   text: |-
