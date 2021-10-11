@@ -37,15 +37,6 @@
   vat-included: true
 - title: Levering og montering
   text: >-
-    Levering og montering af Grohe Essence krom håndvaskbatteri med løft op
-    bundventil.
-
-    Forbehold for at der kan lukkes for vandet under vask/i lejligheden.
-  price: Tilbud 1.800,00 kr. inkl. moms
-  image_path: /uploads/grohe-essence-håndvaskbatteri.jpg
-  vat-included: true
-- title: Levering og montering
-  text: >-
     Levering og montering af Hansgrohe Focus 100 håndvaskbatteri med løft op
     bundventil.
 
@@ -59,6 +50,15 @@
     Forbehold for at der kan lukkes for vandet under vasken/i lejligheden
   price: Pris 2.190,00 kr. inkl. moms
   image_path: /uploads/damixa-silhouet.jpg
+  vat-included: true
+- title: Levering og montering
+  text: >-
+    Levering og montering af Grohe Essence krom håndvaskbatteri med løft op
+    bundventil.
+
+    Forbehold for at der kan lukkes for vandet under vask/i lejligheden.
+  price: Tilbud 1.800,00 kr. inkl. moms
+  image_path: /uploads/grohe-essence-håndvaskbatteri.jpg
   vat-included: true
 - title: Gustavsberg vask
   text: |-
