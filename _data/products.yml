@@ -35,21 +35,6 @@
   price: Tilbud 5.700,00 kr. inkl. moms
   image_path: /uploads/004.jpg
   vat-included: true
-- title: Ifø glasdør
-  text: |-
-    Space 2000 nichedør med alu profiler og frostglas med knopgreb.
-    80 cm bred og 190 cm høj.
-    Før pris 3.266,00 kr. inkl. moms.
-  price: Tilbud 2.500,00 kr. inkl. moms
-  image_path: /uploads/ifø-glasvæg.jpg
-  vat-included: true
-- title: Gustavsberg vask
-  text: |-
-    Nautic porcelænsvask 60x46 cm.
-    Førpris 777,00 kr. inkl. moms.
-  price: Tilbud 500,00 kr. inkl. moms
-  image_path: /uploads/gustavsberg-vask.jpg
-  vat-included: true
 - title: Levering og montering
   text: >-
     Levering og montering af Hansgrohe Focus 100 håndvaskbatteri med løft op
@@ -65,6 +50,21 @@
     Forbehold for at der kan lukkes for vandet under vasken/i lejligheden
   price: Pris 2.190,00 kr. inkl. moms
   image_path: /uploads/damixa-silhouet.jpg
+  vat-included: true
+- title: Ifø glasdør
+  text: |-
+    Space 2000 nichedør med alu profiler og frostglas med knopgreb.
+    80 cm bred og 190 cm høj.
+    Før pris 3.266,00 kr. inkl. moms.
+  price: Tilbud 2.500,00 kr. inkl. moms
+  image_path: /uploads/ifø-glasvæg.jpg
+  vat-included: true
+- title: Gustavsberg vask
+  text: |-
+    Nautic porcelænsvask 60x46 cm.
+    Førpris 777,00 kr. inkl. moms.
+  price: Tilbud 500,00 kr. inkl. moms
+  image_path: /uploads/gustavsberg-vask.jpg
   vat-included: true
 - title: Levering og montering
   text: >-
