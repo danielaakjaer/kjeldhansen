@@ -59,6 +59,22 @@
   price: Tilbud 1.800,00 kr. inkl. moms
   image_path: /uploads/grohe-essence-håndvaskbatteri.jpg
   vat-included: true
+- title: Levering og montering
+  text: >-
+    Levering og montering af Hansgrohe Focus 100 håndvaskbatteri med løft op
+    bundventil.
+
+    Forbehold for at der kan lukkes for vandet under vask/i lejlighed.
+  price: Pris 1.900,00 kr. inkl. moms
+  image_path: /uploads/hg-focus.jpg
+  vat-included: true
+- title: Levering og montering
+  text: |-
+    Levering og montering af Damixa Silhouet krom køkkenhane.
+    Forbehold for at der kan lukkes for vandet under vasken/i lejligheden
+  price: Pris 2.190,00 kr. inkl. moms
+  image_path: /uploads/damixa-silhouet.jpg
+  vat-included: true
 - title: Grohtherm 2000 termostatbatteri
   text: |-
     Udstillingsmodel.
@@ -119,20 +135,4 @@
     Førpris 5.771,25 kr. inkl. moms
   price: Tilbud 2.000,00 kr. inkl. moms
   image_path: /hg-brusesæt.png
-  vat-included: true
-- title: Levering og montering
-  text: >-
-    Levering og montering af Hansgrohe Focus 100 håndvaskbatteri med løft op
-    bundventil.
-
-    Forbehold for at der kan lukkes for vandet under vask/i lejlighed.
-  price: Pris 1.900,00 kr. inkl. moms
-  image_path: /uploads/hg-focus.jpg
-  vat-included: true
-- title: Levering og montering
-  text: |-
-    Levering og montering af Damixa Silhouet krom køkkenhane.
-    Forbehold for at der kan lukkes for vandet under vasken/i lejligheden
-  price: Pris 2.190,00 kr. inkl. moms
-  image_path: /uploads/damixa-silhouet.jpg
   vat-included: true
