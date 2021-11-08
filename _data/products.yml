@@ -35,15 +35,6 @@
   price: Tilbud 5.700,00 kr. inkl. moms
   image_path: /uploads/004.jpg
   vat-included: true
-- title: Levering og montering
-  text: >-
-    Levering og montering af Hansgrohe Focus 100 håndvaskbatteri med løft op
-    bundventil.
-
-    Forbehold for at der kan lukkes for vandet under vask/i lejlighed.
-  price: Pris 1.900,00 kr. inkl. moms
-  image_path: /uploads/hg-focus.jpg
-  vat-included: true
 - title: Ifø Spira WC med åben S-lås
   text: >-
     Levering og montering af Ifø Spira wc Rimfree med åben s-lås model 6270 med
@@ -53,6 +44,15 @@
     udsmidning af det gamle wc.
   price: Tilbud 5.400,00 kr. inkl. moms
   image_path: /uploads/ifø-åben.jpg
+  vat-included: true
+- title: Levering og montering
+  text: >-
+    Levering og montering af Hansgrohe Focus 100 håndvaskbatteri med løft op
+    bundventil.
+
+    Forbehold for at der kan lukkes for vandet under vask/i lejlighed.
+  price: Pris 1.900,00 kr. inkl. moms
+  image_path: /uploads/hg-focus.jpg
   vat-included: true
 - title: Levering og montering
   text: |-
