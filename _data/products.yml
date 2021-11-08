@@ -140,3 +140,13 @@
   price: Tilbud 2.700,00 kr. inkl. moms.
   image_path: /uploads/sign-møbelpakke.png
   vat-included: true
+- title: Ifø Spira WC med åben S-lås
+  text: >-
+    Levering og montering af Ifø Spira wc Rimfree med åben s-lås model 6270 med
+    rengørringsvenlig glasur, 4/2 liters skyl og hel cisternekappe for nemmere
+    rengørring samt Fresh wc (hygiejnisk doseringsløsning i skylleknappen)
+    monteres med hvidt Ifø Spira wc sæde med quick release model 99492 Inkl.
+    udsmidning af det gamle wc.
+  price: Tilbud 5.400,00 kr
+  image_path: /uploads/ifø-åben.jpg
+  vat-included: true
