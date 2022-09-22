@@ -45,14 +45,12 @@
   price: Tilbud 5.400,00 kr. inkl. moms
   image_path: /uploads/ifø-åben.jpg
   vat-included: true
-- title: Levering og montering
+- title: Håndklædetørrer
   text: >-
-    Levering og montering af Hansgrohe Focus 100 håndvaskbatteri med løft op
-    bundventil.
-
-    Forbehold for at der kan lukkes for vandet under vask/i lejlighed.
-  price: Pris 1.900,00 kr. inkl. moms
-  image_path: /uploads/hg-focus.jpg
+    Capo krom håndklædetørrer 500x800mm med 300W el-patron med 2 timers timer
+    funktion i krom
+  price: Pris 3.000,00 kr. inkl. moms
+  image_path: /uploads/capo-7-scaled.jpg
   vat-included: true
 - title: Levering og montering
   text: >-
