@@ -130,3 +130,11 @@
   price: 2.100,00 kr. inkl. moms
   image_path: /uploads/40.png
   vat-included: true
+- title: Levering og montering
+  text: >-
+    Levering og montering af Grohe Eurosmart håndvaskbatteri. Der er i tilbuddet
+    regnet med 1 arbejdstime. Forbehold for at der kan lukkes for vandet under
+    vask.
+  price: 1.800,00 kr. inkl. moms
+  image_path: /uploads/41-1.png
+  vat-included: true
