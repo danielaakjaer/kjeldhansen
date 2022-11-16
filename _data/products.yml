@@ -122,3 +122,11 @@
   price: Tilbud 2.700,00 kr. inkl. moms.
   image_path: /uploads/sign-møbelpakke.png
   vat-included: true
+- title: Levering og montering
+  text: >-
+    Levering og montering af Grohe Eurosmart Cosmopolitan 1-grebs køkkenhane.
+    Der er i tilbuddet inkluderet 1 arbejdstime. Forbehold for at der kan lukkes
+    for vandet i lejlighed/hus.
+  price: 2.100,00 kr. inkl. moms
+  image_path: /uploads/grohe-eurosmart-cosmopolitan-køkkenhane.jpg
+  vat-included: true
